@@ -1,0 +1,10 @@
+{
+  "name": "factorio-logo",
+  "version": "1.0.0",
+  "title": "FactorioLogo",
+  "author": "PickledCow",
+  "contact": "factorio@joon.id.au",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Adds placeable Factorio Logo items. Also provides Space Age variants if the Space Age mod is enabled."
+}
