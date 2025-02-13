@@ -31,7 +31,7 @@ if mods["space-age"] then
         {
             type = "technology",
             name = "factorio-space-age-logo",
-            prerequisites = {"factorio-logo"},
+            prerequisites = {"factorio-logo", "space-science-pack"},
             icons = {
                 {
                     icon = "__factorio-logo__/graphics/technology-space-age-icon.png",
