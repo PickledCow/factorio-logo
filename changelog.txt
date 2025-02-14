@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 13. 02. 2025
+  Major Features:
+    - Adds support for the mod Wubefill to modify recipes to require Wube.
+    - Adds an option for cheaper recipes.
+    - Adds an option for cheaper research.
+  Balancing:
+    - Reduced research time for the regular Factorio logo from 60 to 30.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 13. 02. 2025
+  Bugfixes:
+    - Fixed requirement for Space Age logo not requiring the Space Science Pack Research despite using it for the research.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 13. 02. 2025
+  Major Features:
+    - Initial Release.
